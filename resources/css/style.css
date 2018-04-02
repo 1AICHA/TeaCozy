@@ -38,6 +38,8 @@ main{
   margin: 0 auto;
 }
 
+/*Mission*/
+
 .statement{
   display: flex;
   flex-direction: column;
@@ -61,4 +63,20 @@ h2{
 
 h4{
   margin: 10px 0px;
+}
+
+/*Featured-tea*/
+
+.tea{
+  display: flex;
+  width: 1000px;
+}
+
+.products{
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+  width: 1000px;
+
 }
