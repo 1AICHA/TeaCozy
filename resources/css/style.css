@@ -49,7 +49,16 @@ main{
 }
 
 .missie{
+  display: inline;
   background-color: black;
   margin: 0px;
   padding: 0px;
+}
+
+h2{
+  margin: 15px 0px;
+}
+
+h4{
+  margin: 10px 0px;
 }
