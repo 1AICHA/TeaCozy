@@ -87,6 +87,34 @@ h4{
 .space{
   height: 200px;
   width: 300px;
-  /*margin-bottom: 10px;*/
   margin-left: 30px;
+}
+
+/*locations*/
+
+.bkgr-img-loc{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url("../images/img-locations-background.jpg");
+  height: 500px;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.location3{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.loc{
+  display: inline-flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: black;
+  height: 300px;
+  margin: 0px 20px;
+  opacity: 1;
 }
